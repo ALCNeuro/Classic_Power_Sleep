@@ -53,9 +53,6 @@ This repository provides a set of Python scripts for processing EEG data to comp
 - **Channels and Stages:** Modify `channels` and `stages` arrays in each script.
 - **Visualization:** Change colormap or layout options in plotting sections.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 Feel free to update this file to fit your specific project details or dataset!
