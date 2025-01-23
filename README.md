@@ -21,17 +21,6 @@ This repository provides a set of Python scripts for processing EEG data to comp
 - Libraries: `mne`, `numpy`, `pandas`, `matplotlib`, `statsmodels`, `scipy`
 - Recommended: Multiprocessing support for large datasets.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/eeg-bandpower-analysis.git
-   cd eeg-bandpower-analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. **Prepare Data:**
    Place raw EEG `.fif` files in the `Preproc` directory under your designated `raw_dir` path.
